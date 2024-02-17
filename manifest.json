@@ -1,8 +1,8 @@
 {
     "name": "BodyCam_Reshade",
     "author_name": "Segich",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/SergeiBabko/bodycam-reshade",
-    "description": "The Retro Bodycam Reshade preset transforms the game's visuals into vintage surveillance footage, reminiscent of old body cameras and classic VHS recordings, evoking the charm of worn-out film reels and a nostalgic atmosphere.",
+    "description": "The Retro Bodycam Reshade preset transforms the game's visuals into vintage surveillance footage, reminiscent of old body cameras and classic VHS recordings, evoking the charm of worn-out film reels and a nostalgic atmosphere. [MANUAL INSTALLATION ONLY]",
     "dependencies": []
 }
